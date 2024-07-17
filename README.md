@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://boysers.github.io/frontend-mentor-qr-code-component/](https://boysers.github.io/frontend-mentor-qr-code-component/)
 
 ## My process
 
@@ -24,6 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML & CSS
 - CSS custom properties
 - Flexbox
+- BEM
 
 ### Useful resources
 
